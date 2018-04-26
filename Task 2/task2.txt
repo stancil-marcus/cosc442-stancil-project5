@@ -242,8 +242,8 @@ Current state: 1
 
 FSM execution completed. Final state: 1
 Output pattern:0
-
-FSM execution begins. Input: 1 0 1 Initial state: 1
+ 
+FSM execution begins. Input: 1 0 1 Initial state: 1 
 Current state: 1
  Input: 1 Next state: 1 Output: 0
 Current state: 1
